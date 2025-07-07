@@ -333,6 +333,7 @@ section {
     padding: 2rem;
     text-align: center;
     background: var(--bg-card);
+    padding: 2rem 10rem 2rem 10rem;
 }
 .footer .container .footer-col .heading-footer {
     font-size: 2rem;
@@ -345,11 +346,11 @@ section {
     text-transform: uppercase;
 }
 .footer .container .footer-col ul{
-    padding: 1rem 0;
+    padding: 2rem 0;
 }
 .footer .container .footer-col ul li {
     list-style: none;
-    padding: 0.7rem 0;
+    padding: 1rem 0;
 }
 .footer .container .footer-col ul li a {
     font-size: 1.2rem;
